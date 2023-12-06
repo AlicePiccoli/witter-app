@@ -1,6 +1,6 @@
 # Witter App
 
-Voici mon application iOS fait en Swift, SwiftUI ainsi qu'avec Firebase, cela a été fait à l'aide d'un tutoriel.
+Voici mon application iOS faite en Swift, SwiftUI ainsi qu'avec Firebase, cela a été fait à l'aide d'un tutoriel.
 
 C'est un premier jet pour m'entraîner au dev mobile iOS natif.
 
